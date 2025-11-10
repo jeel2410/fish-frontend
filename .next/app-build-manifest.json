@@ -1,0 +1,35 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-04c090bf27c652c8.js",
+      "static/chunks/fd9d1056-d26b0eab797fab5a.js",
+      "static/chunks/23-4c9b52943070e4d1.js",
+      "static/chunks/main-app-d851fcc6c200b888.js",
+      "static/chunks/app/_not-found/page-082acb467fac0540.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-04c090bf27c652c8.js",
+      "static/chunks/fd9d1056-d26b0eab797fab5a.js",
+      "static/chunks/23-4c9b52943070e4d1.js",
+      "static/chunks/main-app-d851fcc6c200b888.js",
+      "static/css/ff30cd6a7f2ebb1b.css",
+      "static/chunks/app/layout-9f4f6c43cedf6f04.js"
+    ],
+    "/lakes/[slug]/page": [
+      "static/chunks/webpack-04c090bf27c652c8.js",
+      "static/chunks/fd9d1056-d26b0eab797fab5a.js",
+      "static/chunks/23-4c9b52943070e4d1.js",
+      "static/chunks/main-app-d851fcc6c200b888.js",
+      "static/chunks/231-66ed7633d945ece4.js",
+      "static/chunks/app/lakes/[slug]/page-cf6c8be5826b9200.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-04c090bf27c652c8.js",
+      "static/chunks/fd9d1056-d26b0eab797fab5a.js",
+      "static/chunks/23-4c9b52943070e4d1.js",
+      "static/chunks/main-app-d851fcc6c200b888.js",
+      "static/chunks/231-66ed7633d945ece4.js",
+      "static/chunks/app/page-7db66a5feb1a9962.js"
+    ]
+  }
+}
